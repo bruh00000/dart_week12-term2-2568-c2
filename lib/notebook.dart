@@ -17,6 +17,6 @@ class Notebook{
 void callNotebook(){
   Notebook nb = Notebook();
   nb.name = "Dell Inspiron";
-  nb.price = 750.0;
+  nb.price = 7050.0;
   nb.notebookInfo();
 }
